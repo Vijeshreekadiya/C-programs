@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585549823 source:c:\users\mis\desktop\new folder\c\palidrome string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

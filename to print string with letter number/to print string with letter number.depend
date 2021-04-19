@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584180807 source:c:\users\mis\desktop\new folder\c\to print string with letter number\main.c
+	<stdio.h>
+	<stdlib.h>
+

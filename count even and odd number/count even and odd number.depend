@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583997867 source:c:\users\mis\desktop\new folder\count even and odd number\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587714044 source:c:\users\mis\desktop\new folder\c\concate string without cat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

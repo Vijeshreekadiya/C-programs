@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587533033 source:c:\users\mis\desktop\new folder\c\factor\main.c
+	<stdio.h>
+	<stdlib.h>
+
